@@ -152,6 +152,7 @@ test('Home page', async ({ page }) => {
 //         console.log("number is -ve")
 //     }
 // }
+
 // 20. Check whether a number is greater than 100
 // let num = 100
 // for(let i = 50; i<=150; i++){
@@ -164,15 +165,79 @@ test('Home page', async ({ page }) => {
 // }
 
 //21. Check whether a number is even
-let num = 100
-for(let i = 50; i<=150; i++){
+// let num = 100
+// for(let i = 50; i<=150; i++){
 
-    if(num%2==0){
-        console.log(i);
-        break;
-    }
+//     if(num%2==0){
+//         console.log(i);
+//         break;
+//     }
 
-}
+// }
+
+// 22. Check whether a character is uppercase
+// 23. Check whether a number is divisible by 5
+// let num = 4;
+// if(num%5==0){
+//     console.log("number is divisible by 5")
+// }
+//or//
+// let num  = prompt("Enter the number")
+//     num = Number(num)
+//     if(num%5==0){
+//         console.log("number is divisible by 5")
+//     }else{
+//         console.log("number is not divisible 5")
+//     }
+
+// 24. Check whether a person is eligible to vote
+// let num = 18
+// if(num<=22)
+// {
+//     console.log("person is eligible to vote")
+// }else{
+//     console.log("person is not eligible to vote")
+// }
+// or//
+// let num  = prompt("Enter the number")
+//     num = Number(num)
+// if(num>=18)
+// {
+//     console.log("person is eligible to vote")
+// }else{
+//     console.log("person is not eligible to vote")
+// }
+
+// 25. Check whether a year is leap year or not
+// 26. Check percentage category (Distinction >=85, First class >=60, Second class >=45, Fail
+// (any percentage below 45%)) (take any 5 subjects marks )
+// 27. Declare an integer array of size 5
+
+// 28. Initialize an array with 5 numbers
+// let arr = [1,2,3,4,5]
+// console.log(arr)
+
+// 29. Print all elements of an array
+// let arr = [2,3,2,1,2,4]
+// for(let i = 0; i<arr.length; i++)
+// console.log(arr[i])
+
+// 30. Find the length of an array
+// let arr = [2,3,2,1,2,4]
+// console.log(arr.length)
+
+// 31. Access and print the first element
+// 32. Access and print the last element
+// 33. Store and print 7 student marks in array
+// 34. Store and print 9 Cities names in array
+// 35. Find the sum of all elements in an array
+
+// 36. Find the average of array elements
+// 37. Print array elements multiplied by 2
+// 38. Check whether array is empty or not
+// 39. if array having any negative numbers, Replace all negative numbers with 0, while
+// printing
+// 40. Find the largest of three numbers like a=17, b=20, c= 11
 
 
 });
