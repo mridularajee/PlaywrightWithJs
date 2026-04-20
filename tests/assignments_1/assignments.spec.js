@@ -153,6 +153,27 @@ test('Home page', async ({ page }) => {
 //     }
 // }
 // 20. Check whether a number is greater than 100
+// let num = 100
+// for(let i = 50; i<=150; i++){
+
+//     if(i>num){
+//         console.log("this value is greater than 100" + "=" + i)
+//         break;
+//     }
+
+// }
+
+//21. Check whether a number is even
+let num = 100
+for(let i = 50; i<=150; i++){
+
+    if(num%2==0){
+        console.log(i);
+        break;
+    }
+
+}
+
 
 });
 
