@@ -1,0 +1,59 @@
+1. Print numbers divisible by 5 between 30 and 60
+2. Print numbers divisible by 3 and 5 between 10 and 90
+3. Count how many even numbers are between 52 to 63
+4. Count how many Odd numbers are between 11 to 31
+5. Print the sum of all numbers from 15 to 25
+6. Print the sum of all even numbers from 41 to 60
+7. Print the sum of all odd numbers from 21 to 39
+8. Print numbers from 1 to 10
+9. Print numbers from 10 to 1
+10. Print all factors of 16
+11. Print all even numbers between 489 and 561
+12. Print all odd numbers between 89 and 111
+13. Print the square of numbers from 1 to 10
+14. Print the cube of numbers from 1 to 10
+15. Print table of a number 12
+16. Check number 11 is prime number or not
+17. Check 121 is a Palindrome number or not
+18. Check whether a number is positive
+19. Check whether a number is negative
+20. Check whether a number is greater than 100
+21. Check whether a number is even
+22. Check whether a character is uppercase
+23. Check whether a number is divisible by 5
+24. Check whether a person is eligible to vote
+25. Check whether a year is leap year or not
+26. Check percentage category (Distinction >=85, First class >=60, Second class >=45, Fail
+(any percentage below 45%)) (take any 5 subjects marks )
+27. Declare an integer array of size 5
+28. Initialize an array with 5 numbers
+29. Print all elements of an array
+30. Find the length of an array
+31. Access and print the first element
+32. Access and print the last element
+33. Store and print 7 student marks in array
+34. Store and print 9 Cities names in array
+35. Find the sum of all elements in an array
+
+36. Find the average of array elements
+37. Print array elements multiplied by 2
+38. Check whether array is empty or not
+39. if array having any negative numbers, Replace all negative numbers with 0, while
+printing
+40. Find the largest of three numbers like a=17, b=20, c= 11
+
+41. Add an element to the end of an array using push.
+42. Remove the last element from an array using pop.
+43. Remove the first element from an array using shift.
+44. Add elements at the beginning of an array using unshift.
+45. Concatenate two arrays using concat.
+46. Reverse an array.
+47. Find the length of a string.
+48. Convert a string to uppercase using toUpperCase.
+49. Convert a string to lowercase using toLowerCase.
+50. Get a character at a specific index using charAt().
+51. Find the position of a word using indexOf().
+52. Check if a string includes a word using includes().
+53. Check if a string starts with a specific word using startsWith().
+54. Check if a string ends with a specific word using endsWith().
+55. Replace a word in a sentence using replace().

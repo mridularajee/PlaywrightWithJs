@@ -64,6 +64,96 @@ test('Home page', async ({ page }) => {
     //     }
     // }
     // console.log("sum of all odd numbers" + sum)
+
+    //8. Print numbers from 1 to 10
+    //     for(let i = 1; i<=10; i++){
+    //     console.log(i)
+    // }
+
+    //9. Print numbers from 10 to 1
+    //     for(let i = 10; i>=1; i--){
+    //     console.log(i)
+    // }
+
+    //10. Print all factors of 16
+    // let num = 16;
+    // for(let i = 0; i<100; i++){
+    //     if(num%i==0)
+    //     console.log(i)
+    // }
+
+    //11. Print all even numbers between 489 and 561
+    // for (let i = 489; i <= 561; i++) {
+    //     if (i % 2 == 0) {
+    //         console.log(i)        
+    //     }
+    // }
+
+    //12. Print all odd numbers between 89 and 111
+    // for (let i = 89; i <= 111; i++) {
+    //     if (i % 2 == 1) {
+    //         console.log(i)        
+    //     }
+    // }
+
+    //13. Print the square of numbers from 1 to 10
+    // for(let i = 1; i<10; i++){
+    //  console.log(i + "x" + 2 + "=" + i*2)
+    // }
+
+    //14. Print the cube of numbers from 1 to 10
+    // for(let i = 1; i<10; i++){
+    //  console.log(i + "x" + 3 + "=" + i*3)
+    // }
+
+    //15. Print table of a number 12
+    // for(let i=1; i<=10; i++){
+    //     console.log(i*12)
+    // }
+
+// 16. Check number 11 is prime number or not
+// let num = 11;
+// for(let i=0; i<=11; i++){
+// if(num%i==0||num%i==0){
+//  console.log("11 is prime numbe")
+// }
+// else{
+//     console.log("11 is not prime number")
+// }
+// }
+
+// 17. Check 121 is a Palindrome number or not
+// let number = 121
+// if(number==121){
+//     console.log("number is palindrome")
+// }
+// else{
+//     console.log("number is not palindrome")
+// }
+
+// 18. Check whether a number is positive
+// let num =0;
+// for(let i = 0; i<=100; i++){
+//     if(i>=num){
+//         console.log("number is +ve")
+//     }
+//     else{
+//         console.log("number is -ve")
+//     }
+// }
+
+// 19. Check whether a number is negative
+// let num =0;
+// for(let i = 0; i<=100; i--){
+//     if(i>num){
+//         console.log("number is +ve")
+//     }
+//     else{
+//         console.log("number is -ve")
+//     }
+// }
+// 20. Check whether a number is greater than 100
+
 });
 
 
