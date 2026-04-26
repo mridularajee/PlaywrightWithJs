@@ -205,21 +205,22 @@ test('Home page', async ({ page }) => {
     // }
 
     // 25. Check whether a year is leap year or not
-    // 26. Check percentage category (Distinction >=85, First class >=60, Second class >=45, Fail  (any percentage below 45%)) (take any 5 subjects marks )
-      let num = prompt("Enter any number")
-        num = Number(num)
-        if(num>=85){
-            console.log("Distinction")
-        }else if(num >=60){
-            console.log("First class")
-        }else if(num>=45){
-            console.log("Second class ")
-        }
-        else{
-            console.log("Not eligible")
-        }
     
-         // 27. Declare an integer array of size 5
+    // 26. Check percentage category (Distinction >=85, First class >=60, Second class >=45, Fail  (any percentage below 45%)) (take any 5 subjects marks )
+    // let num = prompt("Enter any number")
+    // num = Number(num)
+    // if (num >= 85) {
+    //     console.log("Distinction")
+    // } else if (num >= 60) {
+    //     console.log("First class")
+    // } else if (num >= 45) {
+    //     console.log("Second class ")
+    // }
+    // else {
+    //     console.log("Not eligible")
+    // }
+
+    // 27. Declare an integer array of size 5
 
     // 28. Initialize an array with 5 numbers
     // let arr = [1,2,3,4,5]
@@ -235,7 +236,13 @@ test('Home page', async ({ page }) => {
     // console.log(arr.length)
 
     // 31. Access and print the first element
+    // let arr = [2,3,4,5,6,7]
+    // console.log(arr[0])
+
     // 32. Access and print the last element
+    //   let arr = [2,3,4,5,6,7]
+    //    console.log(arr.length -1)
+    //    console.log(arr[5])
 
     // 33. Store and print 7 student marks in array
     // let arr = [23,45,32,11,44,35,67]
@@ -280,7 +287,7 @@ test('Home page', async ({ page }) => {
 
     // 38. Check whether array is empty or not
     // 39. if array having any negative numbers, Replace all negative numbers with 0, while printing
-    
+
     // 40. Find the largest of three numbers like a=17, b=20, c= 11
     //     let a=17, b=20, c=11
     //     if(a>b){
